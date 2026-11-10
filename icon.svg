@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#000000"/>
+  <text x="196" y="352" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-weight="900" font-size="300" fill="#ffc400">B</text>
+  <g fill="none" stroke="#ffc400" stroke-width="28" stroke-linecap="round">
+    <path d="M318 196 a84 84 0 0 1 0 120"/>
+    <path d="M362 156 a140 140 0 0 1 0 200"/>
+  </g>
+</svg>
