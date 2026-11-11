@@ -1,6 +1,6 @@
-// Beeptestinator v0.35.1 · 0f6f712. Generated at build time — saves the whole app for use with no signal.
-const CACHE = "beeptest-32ee3d7c988f";
-const FILES = ["./","apple-touch-icon.png","assets/index-C3-4h3iL.css","assets/index-DdYI8-1M.js","icon-192.png","icon-512.png","icon.svg","manifest.webmanifest"];
+// Beeptestinator v0.36.0 · a105f87. Generated at build time — saves the whole app for use with no signal.
+const CACHE = "beeptest-95f94178f435";
+const FILES = ["./","apple-touch-icon.png","assets/index-BCWLDDli.css","assets/index-DzdzT9Ls.js","icon-192.png","icon-512.png","icon.svg","manifest.webmanifest"];
 const PAGE = new URL('./', self.location).href;
 
 self.addEventListener('install', (event) => {

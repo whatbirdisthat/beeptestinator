@@ -1,7 +1,7 @@
 {
   "name": "Beeptestinator",
   "short_name": "Beeptest",
-  "description": "The 20 m shuttle-run bleep test.",
+  "description": "Bleep, Yo-Yo, 30-15 and Cooper fitness tests, for one runner or a team.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
